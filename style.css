@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#nav {
+text-align: center;
+padding-left: 10px;
+padding-right: 10px;
+background-color: grey;
+}
+.caption {
+  text-align: center;
+  font-size: 8px;
+}
+
+#para {
+  text-align: center;
+}
+
+#details {
+  display:block;
+  float:left;
+}
+#featured-property p {    
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;     
+}
+
+footer {
+  text-align: center;  
+  width: 100%;
+
+}
+
+#details > div {
+  float: left; 
+}
